@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm R Kavin</h1>
-<h3 align="center">🚀 Second-year Student @ MIT | Aspiring Full-Stack & AI Developer</h3>
+<h3 align="center">🚀 Third-year Student @ MIT | Aspiring Full-Stack & AI Developer</h3>
 
 ---
 
@@ -7,8 +7,7 @@
 - 🎓 Currently diving deep into **React, Node.js, and AI/ML projects**  
 - 💡 Love building **creative UI/UX** with animations and clean code  
 - 🧩 Passionate about **data structures, algorithms, and chess**  
-- 🌱 Learning **Semantic Kernel AI**, **Machine Learning**, and **Full-Stack Development**  
-- 🎯 Goal: Become a **versatile developer** blending AI with web apps  
+  
 
 ---
 
@@ -22,13 +21,8 @@
   <img src="https://img.shields.io/badge/Styling-CSS%2FBootstrap-purple?logo=css3"/>
 </p>
 
----
 
-### 🌟 Projects
-- 🛒 **[MediKart Pharmacy App](#)** – React + Node.js + MongoDB
-- 🤖 **AI Chat App** – Themed chat modes using OpenAI API
-- 🩺 **Heart Attack Prediction Model** – ML project using patient data
-- 🍽️ **Restaurant Table Booking UI** – Clean React UI with state management
+
 
 ---
 
